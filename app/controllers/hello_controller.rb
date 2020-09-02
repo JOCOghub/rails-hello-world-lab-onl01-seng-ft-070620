@@ -1,4 +1,4 @@
-class Hello_Controller < ApplicationController
+class Hw_Controller < ApplicationController
   def hello_world
     render "hello_world"
   end
